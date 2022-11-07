@@ -30,28 +30,32 @@
 	],
 	
 	"part-1-a" : [
-					"a bird in the hand", 
-					"a little knowledge", 
+					"#bird# A bird in the hand", 
+					"📚🎓 A little knowledge", 
 					"a problem shared",
-					"a fool and his money", 
-					"a stitch in time",
+					"💰💵 A fool and his money", 
+					"🧵 A stitch in time",
 					"a watched pot", 
 					"a rolling stone", 
 					"honesty",
-					"an apple a day", 
-					"a rising tide"
+					"🍎🍏 An apple a day", 
+					"🌊 A rising tide"
+					],
+					
+					"bird" : [
+					"🐦", "🐤", "🦜", "🦅", "🐔", "🦚", "🦃", "🐧", "🦉" 
 					],
 	
 	"part-1-b" : [
-					"it's no use crying",
+					"😢 It's no use crying",
 					"it's no use shutting the stable door", 
 					"you can’t make an omelette"
 					],
 	"part-1-c" : [
-					"don’t bite off", 
-					"don’t judge a book", 
-					"don’t make a mountain",
-					"don’t bite the hand"
+					"✋🤐 Don’t bite off", 
+					"📚 Don’t judge a book", 
+					"⛰️ Don’t make a mountain",
+					"✋🤐 Don’t bite the hand"
 				],
 	"part-1-d" : [
 					"the grass is always", 
@@ -61,17 +65,17 @@
 					],
 					
 	"part-1-e" : [	
-					"birds of a feather",
+					"#bird# Birds of a feather",
 					"those in glass houses",
 					"many hands", 
-					"A fool and his money"
+					"💰💵 A fool and his money"
 					],
 					
 	"part-1-f" : [					
-					"better late",
+					"⏰️ Better late",
 					"actions speak louder", 
 					"it’s better to be safe",				
-					"there's a time and a place"
+					"🕰️ There's a time and a place"
 					],
 					
 	"part-1-g" : [			
@@ -79,7 +83,7 @@
 				],
 					
 	"part-1-h" : [								
-					"it's the early bird that", 
+					"#bird# it's the early bird that", 
 					"a leopard cannot",
 					"absence makes", 				
 					"after a storm", 
@@ -99,16 +103,16 @@
 					"never boils",
 					"gathers no moss",
 					"is the best policy",
-					"keeps the doctor away",
+					"keeps the doctor away 👩‍⚕️👨‍⚕️",
 					"shouldn’t throw stones",
-					"lifts all boats"
+					"lifts all boats ⛵"
 					],
 	
 	"part-2-b" : [				
 					"without breaking a few eggs",
-					"before you run",
-					"over spilt milk",
-					"after the horse has bolted"
+					"before you run 🏃‍♀️",
+					"over spilt milk 🥛",
+					"after the horse has bolted 🐎"
 				],
 	
 	"part-2-c" : [
