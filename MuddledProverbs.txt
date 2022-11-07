@@ -16,7 +16,14 @@
 					"George Orwell",
 					"Roald Dahl",
 					"Agatha Christie",
-					"Geoffrey Chaucer"
+					"Geoffrey Chaucer",
+					"Jane Austen",
+					"Dr. Seuss",
+					"Mary Shelley",
+					"Arthur Conan Doyle",
+					"Beatrix Potter",
+					"R. L. Stine",
+					"J. R. R. Tolkien"
 	],
 	
 	"part-1-a" : [
