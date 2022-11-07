@@ -1,0 +1,184 @@
+{
+	"origin": ["#v-1#"],
+		"v-1" : ["#v1a#", "#v1b#", "#v1c#", "#v1d#", "#v1e#"],
+			"v1a" : ["1a#QM##part-1-a.capitalize# #part-2-a##QM# #new-line##new-line# - #author#"],
+			"v1b" : ["1b#QM##part-1-b.capitalize# #part-2-b##QM# #new-line##new-line# - #author#"],
+			"v1c" : ["1c#QM##part-1-c.capitalize# #part-2-c##QM# #new-line##new-line# - #author#"],
+			"v1d" : ["1d#QM##part-1-d.capitalize# #part-2-d##QM# #new-line##new-line# - #author#"],
+			"v1e" : ["1e#QM##part-1-d.capitalize# #part-2-d##QM# #new-line##new-line# - #author#"],
+		"v-2" : ["2#QM##part-a.capitalize# #part-a# #part-b##QM# #new-line##new-line# - #author#"],
+		"v-3" : ["3#QM##part-a.capitalize# #part-b# #part-b##QM# #new-line##new-line# - #author#"],
+	
+	"author" : [
+					"Anon", "Anon",
+					"William Shakespeare",
+					"Charles Dickens",
+					"George Orwell",
+					"Roald Dahl",
+					"Agatha Christie",
+					"Geoffrey Chaucer"
+	],
+	
+	"part-1-a" : [
+					"a bird in the hand", 
+					"a little knowledge", 
+					"a problem shared",
+					"a fool and his money", 
+					"a leopard cannot", 
+					"a stitch in time",
+					"a watched pot", 
+					"a rolling stone", 
+					"honesty",
+					"an apple a day", 
+					"a rising tide"
+					],
+	
+	"part-1-b" : [
+					"it's no use crying",
+					"it's no use shutting the stable door", 
+					"you can’t make an omelette"
+					],
+	"part-1-c" : [
+					"don’t bite off", 
+					"don’t judge a book", 
+					"don’t make a mountain",
+					"don’t bite the hand"
+				],
+	"part-1-d" : [
+					"the grass is always", 
+					"Rome wasn’t",
+					"out of sight,",
+					"Jack of all trades,"
+					],
+					
+	"part-1-e" : [	
+					"birds of a feather",
+					"better late",
+					"it’s better to be safe",				
+					"there's a time and a place",			
+					"absence makes", 
+					"it's the early bird", 
+					"actions speak", 
+					"after a storm", 
+					"if you can't stand the heat", 
+					"those in glass houses",
+					
+					"strike", 
+					"many hands", 
+					"curiosity", 				 		
+					"learn to walk", 
+					"where there’s a will", 
+					
+					"beauty is in the eye"
+					],
+
+	"part-2-a" : [
+					"is worth two in the bush",
+					"is a dangerous thing",
+					"is a problem halved",
+					"saves nine",
+					"never boils",
+					"gathers no moss",
+					"is the best policy",
+					"keeps the doctor away",
+					"shouldn’t throw stones",
+					"lifts all boats"
+					],
+	
+	"part-2-b" : [				
+					"without breaking a few eggs",
+					"before you run",
+					"over spilt milk",
+					"after the horse has bolted"
+				],
+	
+	"part-2-c" : [
+					"by its cover",
+					"more than you can chew",
+					"out of an molehill",	
+					"that feeds you"
+	],					
+				
+	"part-2-d" : [ 
+					"built in a day",
+					"greener on the other side of the fence",
+					"out of mind",
+					"master of none"
+					
+					],
+					
+	"part-2-e" : [
+					"flock together",
+					"than never",
+					"than sorry",			
+					"for everything",
+					"louder than words",
+					"are soon parted",
+					"change its spots",
+					"the heart grow fonder",
+					"that catches the worm",
+					"comes a calm",
+					"get out of the kitchen",					
+					
+					"while the iron is hot",
+					"make light work",
+					
+
+					
+					"killed the cat",
+					"there’s a way",
+					
+					"of the beholder"
+					
+	],
+		
+	"proverbs" : [
+					"A bird in the hand", "is worth two in the bush",
+					"A fool and his money", "are soon parted",
+					"A leopard cannot", "change its spots",
+					"A little knowledge", "is a dangerous thing",
+					"A problem shared", "is a problem halved",
+					"A rising tide", "lifts all boats",
+					"A rolling stone", "gathers no moss",
+					"There's a time and a place", "for everything",
+					"A stitch in time", "saves nine",
+					"A watched pot", "never boils",
+					"Absence makes", "the heart grow fonder",
+					"It's the early bird", "that catches the worm",
+					"Actions speak", "louder than words",
+					"After a storm", "comes a calm",
+					"If you can't stand the heat", "get out of the kitchen",
+					"It's no use crying", "over spilt milk",
+					"It's no use shutting the stable door", "after the horse has bolted",
+					"Jack of all trades", "master of none",
+					"Honesty", "is the best policy",
+					"Strike", "while the iron is hot",
+					"Many hands", "make light work",
+					"The grass is always", "greener on the other side of the fence",
+					"Don’t judge a book", "by its cover",
+					"An apple a day", "keeps the doctor away",
+					"Better late", "than never",
+					"Don’t bite the hand", "that feeds you",
+					"Rome wasn’t", "built in a day",
+					"Curiosity", "killed the cat",
+					"Out of sight", "out of mind",
+					"You can’t make an omelette", "without breaking a few eggs",
+					"Learn to walk", "before you run",
+					"Don’t bite off", "more than you can chew",
+					"It’s better to be safe", "than sorry",
+					"Don’t make a mountain", "out of an molehill",
+					"Where there’s a will", "there’s a way",
+					"Birds of a feather", "flock together",
+					"Beauty is in the eye", "of the beholder",
+					"Those in glass houses", "shouldn’t throw stones"
+					],
+
+		"new-line" : ["\n"],
+		"QM" : ["\""],
+		"COM" : [","],
+
+			"reply" : [
+						"dsfdsf"
+			]
+}
+
