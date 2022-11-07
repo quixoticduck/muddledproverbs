@@ -109,7 +109,7 @@
 					],
 	
 	"part-2-b" : [				
-					"without breaking a few eggs",
+					"without breaking a few eggs 🥚🥚",
 					"before you run 🏃‍♀️",
 					"over spilt milk 🥛",
 					"after the horse has bolted 🐎"
