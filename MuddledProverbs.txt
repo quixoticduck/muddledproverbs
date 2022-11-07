@@ -1,11 +1,14 @@
 {
 	"origin": ["#v-1#"],
-		"v-1" : ["#v1a#", "#v1b#", "#v1c#", "#v1d#", "#v1e#"],
+		"v-1" : ["#v1a#", "#v1b#", "#v1c#", "#v1d#", "#v1e#", "#v1f#"],
 			"v1a" : ["1a#QM##part-1-a.capitalize# #part-2-a##QM# #new-line##new-line# - #author#"],
 			"v1b" : ["1b#QM##part-1-b.capitalize# #part-2-b##QM# #new-line##new-line# - #author#"],
 			"v1c" : ["1c#QM##part-1-c.capitalize# #part-2-c##QM# #new-line##new-line# - #author#"],
 			"v1d" : ["1d#QM##part-1-d.capitalize# #part-2-d##QM# #new-line##new-line# - #author#"],
-			"v1e" : ["1e#QM##part-1-d.capitalize# #part-2-d##QM# #new-line##new-line# - #author#"],
+			"v1e" : ["1e#QM##part-1-e.capitalize# #part-2-e##QM# #new-line##new-line# - #author#"],
+			"v1f" : ["1f#QM##part-1-f.capitalize# #part-2-f##QM# #new-line##new-line# - #author#"],
+			"v1g" : ["1g#QM##part-1-g.capitalize# #part-2-g##QM# #new-line##new-line# - #author#"],
+			"v1h" : ["1h#QM##part-1-h.capitalize# #part-2-h##QM# #new-line##new-line# - #author#"],
 		"v-2" : ["2#QM##part-a.capitalize# #part-a# #part-b##QM# #new-line##new-line# - #author#"],
 		"v-3" : ["3#QM##part-a.capitalize# #part-b# #part-b##QM# #new-line##new-line# - #author#"],
 	
@@ -31,7 +34,6 @@
 					"a little knowledge", 
 					"a problem shared",
 					"a fool and his money", 
-					"a leopard cannot", 
 					"a stitch in time",
 					"a watched pot", 
 					"a rolling stone", 
@@ -60,22 +62,32 @@
 					
 	"part-1-e" : [	
 					"birds of a feather",
+					"those in glass houses",
+					"many hands", 
+					"A fool and his money"
+					],
+					
+	"part-1-f" : [					
 					"better late",
+					"actions speak louder", 
 					"it’s better to be safe",				
-					"there's a time and a place",			
-					"absence makes", 
-					"it's the early bird", 
-					"actions speak", 
+					"there's a time and a place"
+					],
+					
+	"part-1-g" : [			
+
+				],
+					
+	"part-1-h" : [								
+					"it's the early bird that", 
+					"a leopard cannot",
+					"absence makes", 				
 					"after a storm", 
 					"if you can't stand the heat", 
-					"those in glass houses",
-					
 					"strike", 
-					"many hands", 
 					"curiosity", 				 		
 					"learn to walk", 
 					"where there’s a will", 
-					
 					"beauty is in the eye"
 					],
 
@@ -116,27 +128,33 @@
 					
 	"part-2-e" : [
 					"flock together",
+					"shouldn’t throw stones",
+					"make light work",
+					"are soon parted"
+				],
+		
+	"part-2-f" : [		
 					"than never",
 					"than sorry",			
 					"for everything",
-					"louder than words",
-					"are soon parted",
+					"than words"
+					],
+					
+	"part-2-g" : [		
+	
+
+					],
+					
+	"part-2-h" : [			
+					"catches the worm",
 					"change its spots",
 					"the heart grow fonder",
-					"that catches the worm",
-					"comes a calm",
-					"get out of the kitchen",					
-					
-					"while the iron is hot",
-					"make light work",
-					
-
-					
+					"get out of the kitchen",							
+					"while the iron is hot",		
 					"killed the cat",
-					"there’s a way",
-					
-					"of the beholder"
-					
+					"there’s a way",				
+					"of the beholder",
+					"comes a calm"		
 	],
 		
 	"proverbs" : [
